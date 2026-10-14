@@ -1,3 +1,5 @@
+![morn-perf-sentry](assets/preview.png)
+
 # MornRain Perf Sentry
 
 前端性能埋点与资源评分库。静态分析 HTML，按 Core Web Vitals 相关规则输出 0~100 分与逐项扣分明细，并生成可直接落地的懒加载与缓存策略建议。
